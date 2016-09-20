@@ -45,7 +45,7 @@ public class MemberRegistrationTest {
                 // Deploy our test datasource
                 .addAsWebInfResource("test-ds.xml", "test-ds.xml");
     }
-
+    //Hej, what's wrong with you, you're looking down to meeheeheeeeeee!
     @Inject
     MemberRegistration memberRegistration;
 
